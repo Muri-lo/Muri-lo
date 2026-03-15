@@ -1,4 +1,7 @@
-### Olá me chamo Murilo ✌️
+### Olá me chamo Murilo
+💻 Estudante de desenvolvimento web
+🚀 Focado em JavaScript, React e Node.js
+📚 Atualmente estudando: Python
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muri-lo&show_icons=true&theme=tokyonight)
 
