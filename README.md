@@ -1,13 +1,13 @@
-### Olá me chamo Murilo
-💻 Estudante de desenvolvimento web <br>
-🚀 Focado em JavaScript, React e Node.js <br>
-📚 Atualmente estudando: Python
+###  Olá, eu sou o Murilo 👋
+💻 Estudante de Desenvolvimento Web    
+🚀 Focado em JavaScript, React e Node.js    
+📚 Atualmente estudando Python e desenvolvimento backend  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muri-lo&show_icons=true&theme=tokyonight)
 
-## Tecnologias que eu uso no meu cotidiano
+## 🛠 Tecnologias que utilizo
 
-<div style="display: inline_block"><br/>
+<div style="display: inline_block" align="center"><br/>
 <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
