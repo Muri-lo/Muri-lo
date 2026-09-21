@@ -3,7 +3,6 @@
 🚀 Focado em JavaScript, React e Node.js    
 📚 Atualmente estudando Python e desenvolvimento backend  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muri-lo&show_icons=true&theme=tokyonight)
 
 ## 🛠 Tecnologias que utilizo
 
